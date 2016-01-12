@@ -2,7 +2,7 @@
 
 ## Agenda
 1. Sponsorhip Packages
-2. Logo / Stickers
+2. [Logo](https://github.com/node-girls/start-here/issues/6) / Stickers
 3. Website
 4. [Our own learning Materials / Cheatsheets](https://github.com/node-girls/hackday/issues/2)
 5. A compilation of other useful external resources

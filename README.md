@@ -6,7 +6,7 @@
 3. Website
 4. [Our own learning Materials / Cheatsheets](https://github.com/node-girls/hackday/issues/2)
 5. A compilation of other useful external resources
-6. [Workshop](https://github.com/node-girls/hackday/issues/3)
+6. [Workshop](https://github.com/node-girls/hackday/issues/3) - Mina, Anita
 
 ## To concentrate on: 
 More continuity between the morning and the afternoon. Preferably even working on the same code.
